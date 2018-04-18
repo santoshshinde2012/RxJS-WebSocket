@@ -61,7 +61,6 @@ Try to open same URL [http://localhost:4200/](http://localhost:4200/) in two or 
 
 ### About Me
 
- * [My website](http://santoshshinde.com/) (santoshshinde.com)
  * [Github](https://github.com/santoshshinde2012) (@santoshshinde2012)
  * [Twitter](https://twitter.com/shindesan2012) (@shindesan2012)
  * [Stackoverflow](https://stackoverflow.com/users/4319438/santosh-shinde)  (@user:4319438)
