@@ -56,6 +56,9 @@ Your application should run on port 4200 with the *development* environment conf
 
 Try to open same URL [http://localhost:4200/](http://localhost:4200/) in two or more browser windows and play with the broadcast button.
 
+![alt text](https://raw.githubusercontent.com/santoshshinde2012/RxJS-WebSocket/master/demo/demo.gif)
+
+
 ### About Me
 
  * [My website](http://santoshshinde.com/) (santoshshinde.com)
